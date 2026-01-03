@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Parth+Yendhe!;Business+Intelligence+%26+Data+Analyst;I+don’t+just+analyze+data;I+uncover+the+problems+dashboards+can’t+see+📊" alt="Typing SVG">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Parth+Yendhe;Business+Intelligence+%26+Data+Analyst;Turning+Data+into+Decisions" />
+</p>
+
+<h2 align="center">Business Intelligence & Data Analyst</h2>
+
+---
 
 ---
 
@@ -57,8 +61,8 @@ That realization pushed me to focus on **analytics and business intelligence**. 
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 ---
-
-## 💼 Featured Projects
+<a id="featured-projects"></a>
+## Featured Projects
 
 ### RetailMart Analytics (SQL + Business Insights)
 
